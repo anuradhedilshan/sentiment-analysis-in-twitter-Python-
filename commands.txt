@@ -1,0 +1,2 @@
+python -m nltk.downloader stopwords punkt wordnet averaged_perceptron_tagger omw-1.4
+python -m textblob.download_corpora
